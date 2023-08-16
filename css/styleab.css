@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+nav .first ul{
+    display: flex;
+     justify-self: center;
+    align-items: center;
+   gap: 50px;
+    list-style: none;
+}
+nav .second ul{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+}
+.one {
+    position: relative;
+    width: 50%;
+}
+.imgmain{
+    position: absolute;
+    right: 80px;
+    width: 500px;
+    height: 500px;
+}
+main {
+    position: relative;
+}
+.three{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    position: absolute;
+    bottom: 100px;
+    left: 50px;
+}
+.php h2 {
+    font-size: 80px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+.php p{
+    font-size: small;
+    margin-left: 80px;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+.php{
+    width: 50%;
+}
+.hi{
+    display: flex;
+    flex-direction: row;
+}
+.kl button{
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+}
+.second ul li button{
+    border-radius: 10px;
+    padding: 5px;
+}
+.gg{
+    border: none;
+    background-color: transparent;
+}
