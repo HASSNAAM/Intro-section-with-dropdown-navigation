@@ -92,5 +92,3 @@ In future projects, I want to continue improving my skills in:
 ## Acknowledgments
 
 I would like to thank the Frontend Mentor community for their support and feedback. Special thanks to anyone who reviewed my solution and provided constructive feedback.
-
-```
