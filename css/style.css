@@ -192,6 +192,7 @@ width: 100% !important;
   }
   main .img{
     height: 50vh;
+    background-image: url(../images/image-hero-mobile.png);
   }
   main .content{
     padding: 20px;
