@@ -11,6 +11,9 @@
   --Medium-Gray: hsl(0, 0%, 41%);
   --Almost-Black: hsl(0, 0%, 8%);
 }
+body{
+    background-color: var(--Almost-White);
+}
 ul {
   list-style: none;
 }
